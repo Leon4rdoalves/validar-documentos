@@ -1,6 +1,14 @@
-# Validando documentos
-Estudo sobre validação de documentos brasileiros. 
-* CPF → Funcionando perfeitamente.
-* CNPJ → Em desenvolvimento.
-* ID → Na fila.
-* Interface → Na fila.
+# Validador de documentos
+* Scrit para validar documentos brasileiros. 
+* 4 study only!
+---
+### IDE
+* Pycharm
+---
+### Contribuição:
+* À vontade... 
+### Contribution:
+* Make yourself comfortable
+
+### Contact:
+* instagram.com/ebony_prog
